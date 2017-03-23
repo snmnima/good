@@ -6,7 +6,7 @@
 
 #نصب
 ```
-git clone https://github.com/boydevreza/tablighchi.git && cd tablighchi && chmod 777 install.sh && chmod +x bottabchi.sh && ./install.sh
+git clone https://github.com/snmnima/good.git && cd tablighchi && chmod 777 install.sh && chmod +x bottabchi.sh && ./install.sh
 ```
  
 #ساختن و ران کردن
